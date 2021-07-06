@@ -1,0 +1,165 @@
+.RECEBA{
+	margin-top: 160px;
+}
+
+/*.logo{
+	margin-left: 65px;
+	margin-top: 25px;
+}*/
+
+
+
+.main_header{
+	background-image: url(mainbg.png);
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+.main_header img{
+	background-size: cover;
+
+}
+
+.blur{
+	background-color: rgba(255, 255, 255, 0.88);
+	height: 100%;
+	width: 100% !important;
+}
+
+.button button{
+	padding: 10px 60px;
+	border-radius: 50px;
+	border: 2px solid black;
+	color: black;
+	font-weight: bold;
+}
+
+.button button:hover{
+	background-color: black;
+
+}
+
+.headline h3{
+	font-weight: normal;
+
+}
+
+.headline h1{
+	letter-spacing: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+.blur_2{
+	background-color: rgba(255, 255, 255, 0.66);
+	height: 100%;
+	width: 100%;
+
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+}
+
+.mob img{
+	width: 100%;
+
+}
+
+.contain{
+	width: 100%;
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.num{
+	margin-top: 55px;
+}
+
+.blur_3{
+	background-color: rgba(255, 255, 255, 0.66);
+}
+
+.blur_3{
+	background-color: rgba(255, 255, 255, 0.66);
+	height: 100%;
+	width: 100%;
+
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+}
+
+
+.con{
+	width: 65%;
+	margin: auto;
+}
+
+
+
+
+
+.imo img{
+	
+	margin: auto;
+}
+
+.f1{
+	background-color: #1D1E21;
+
+}
+
+.f2{
+	background-color: #E89880;
+}
+
+.input{
+	display: block;
+	box-sizing: border-box;
+	border:none;
+	border-bottom: 2px solid white;
+	background-color: #1D1E21; 
+	outline: none;
+	
+}
+
+.button_l button{
+	padding: 10px 50px;
+	border-radius: 50px;
+	border: 2px solid white;
+	color: black;
+	font-weight: bold;
+	color: white;
+}
+
+.input:hover{
+	border-bottom: 2px solid #333333;
+
+}
+
+.button_l button:hover{
+	background-color: #333333;
+}
+
+
+}
